@@ -17,4 +17,5 @@ As an aspiring SOC analyst, I was naturally excited to complete TryHackMe's dedi
 
 
 # Certificate:
-!https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VCZDMPYCQR.png
+![soc level 1 cert](https://github.com/user-attachments/assets/e7df6dc7-1818-4058-a5fc-df0dd2b03405)
+
